@@ -14,4 +14,4 @@
 
 1. https://medium.com/flutter-community/integrating-bottom-navigation-with-go-router-in-flutter-c4ec388da16a
 
-2. 
+2. [go_router](https://docs.page/csells/go_router/nested-navigation)
