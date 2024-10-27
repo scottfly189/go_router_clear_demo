@@ -2,15 +2,15 @@
 
 
 
-# 特点：
+# Features:
 
-1、第三方包只有go_router一个;
+1. The only third-party package is go_router;
 
-2、嵌套路由的演示，整合了go_router与BottomNavigation
+2. Demonstration of nested routing, integrating go_router and BottomNavigation;
 
 
 
-# 参考：
+# Refer to：
 
 1. https://medium.com/flutter-community/integrating-bottom-navigation-with-go-router-in-flutter-c4ec388da16a
 
