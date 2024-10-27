@@ -1,16 +1,17 @@
-# goroutertest
+# go_router clean example
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# 特点：
 
-A few resources to get you started if this is your first Flutter project:
+1、第三方包只有go_router一个;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2、嵌套路由的演示，整合了go_router与BottomNavigation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+# 参考：
+
+1. https://medium.com/flutter-community/integrating-bottom-navigation-with-go-router-in-flutter-c4ec388da16a
+
+2. 
